@@ -3,4 +3,6 @@ b = [3,4,5]  # Criar b
 c = b[1] + a[2] # Criar c
 d = c * a # Criar d
 f = 2 # criar f
+novo = [1,2,3,4]
 d = [1,2,3]
+
